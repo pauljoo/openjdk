@@ -63,6 +63,7 @@ make: *** [/cygdrive/e/hub/openjdk/jdk8u//make/Main.gmk:136：images-only] 错�
 
 ### E:\plugins\openjdk\hotspot/make/windows/get_msc_ver.sh: 第 69 行
 
+运行cl.exe查看版本
 /openjdk/hostpot/make/windows/get_msc_ver.sh，65-73行注释掉，直接添加
 MSC_VER=1600
 MSC_VER_RAW=16.00.30319.01
